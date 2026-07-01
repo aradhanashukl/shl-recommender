@@ -1,0 +1,52 @@
+{
+  "individual_test_solutions": [
+    {
+      "name": "Java 8 (New)",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+      "test_type": "K",
+      "description": "Measures knowledge of core Java 8 programming concepts including syntax, OOP, collections, and exception handling."
+    },
+    {
+      "name": "OPQ32r",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32r/",
+      "test_type": "P",
+      "description": "Occupational Personality Questionnaire measuring 32 personality characteristics relevant to workplace performance, including stakeholder management and influence."
+    },
+    {
+      "name": "General Ability Test (GIA)",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/general-ability-test/",
+      "test_type": "A",
+      "description": "A general measure of cognitive ability covering verbal, numerical, and inductive reasoning."
+    },
+    {
+      "name": "SHL Verify Interactive - Inductive Reasoning",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-inductive/",
+      "test_type": "A",
+      "description": "Measures inductive/logical reasoning ability using interactive item types."
+    },
+    {
+      "name": "Global Skills Assessment (GSA)",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/gsa/",
+      "test_type": "K",
+      "description": "Broad multi-skill assessment covering a range of technical and workplace skills used for early career hiring."
+    },
+    {
+      "name": "Python (New)",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+      "test_type": "K",
+      "description": "Assesses knowledge of Python programming including syntax, data structures, and core libraries."
+    },
+    {
+      "name": "Situational Judgement Test - Customer Service",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/sjt-customer-service/",
+      "test_type": "B",
+      "description": "Presents realistic customer-service scenarios to assess judgement and decision-making."
+    },
+    {
+      "name": "Workplace Personality Inventory (WPI)",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/wpi/",
+      "test_type": "P",
+      "description": "Assesses personality traits relevant to workplace behavior, teamwork, and leadership potential."
+    }
+  ]
+}
